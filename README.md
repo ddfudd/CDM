@@ -1,4 +1,4 @@
-# Contrastive Distengled Meta-Learning for Signer-Independent Sign Language Translation (ACM MM'21)
+# Contrastive Distengled Meta-Learning for Signer-Independent Sign Language Translation
 
 This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modified to realize joint continuous sign language recognition and translation. For text-to-text translation experiments, you can use the original Joey NMT framework.
  
